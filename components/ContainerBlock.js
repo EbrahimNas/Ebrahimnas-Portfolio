@@ -8,9 +8,9 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Ibrahim Nasir - Developer",
-    description: ``,
-    image: "/avatar.png",
+    title: "Ibrahim.Nasir - Developer",
+    description: `Portfolio of Ibrahim Nasir, a software developer with a passion for building impactful digital experiences. Specialising in modern web development and design with a foundation in architecture, blending creativity with code to create solutions that stand out.`,
+    image: "/IN.png",
     type: "website",
     ...customMeta,
   };
@@ -22,19 +22,22 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://yourwebsite.com${router.asPath}`}
+          content= 'https://ibrahim-nasir.netlify.app/'
+          // content={`https://yourwebsite.com${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://yourwebsite.com${router.asPath}`}
+          href='https://ibrahim-nasir.netlify.app/'
+          // href={`https://yourwebsite.com${router.asPath}`}
         />
+
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Manu Arora" />
+        <meta property="og:site_name" content="Ibrahim Nasir" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@mannupaaji" />
+        <meta name="twitter:site" content="@ebrahim_nass" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
