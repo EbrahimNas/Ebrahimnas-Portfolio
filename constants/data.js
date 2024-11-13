@@ -31,7 +31,7 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer that loves building  Cool Stuff, with Design Roots in Architecture",
+      "I'm a software developer passionate about building creative experiences, with design roots in architecture",
     description: [
       `Coming from an architecture background, I bring a unique perspective to software development, where design, structure, and user experience converge. My journey from architecture to tech is fueled by a desire to bridge the gap between the digital and physical worlds, crafting solutions that are as intuitive as they are impactful.`,
       `I specialize in building dynamic and scalable web applications using React.js, Next.js, TypeScript, and JavaScript, with a focus on clean design, efficiency, and seamless user experiences. My architectural insights inform every step, from wireframing and planning to crafting user-centric solutions that merge innovative design with functional technology.`,
@@ -78,7 +78,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1uw6O_yCX4oJWSBZ-zbj3iNTNaYxum6pC/view?usp=sharing",
+    "https://drive.google.com/file/d/1BVzL-CQMQIZK4u6XmviOVhU55q3JJfPL/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/ebrahim_nas",
     twitter: "https://twitter.com/ebrahim_nass",
