@@ -8,7 +8,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Ibrahim.Nasir",
+    title: "Ibrahim.Nasir - Developer",
     description: `Portfolio of Ibrahim Nasir, a software developer with a passion for building impactful digital experiences. Specialising in modern web development and design with a foundation in architecture, blending creativity with code to create solutions that stand out.`,
     image: "/IN.png",
     type: "website",
