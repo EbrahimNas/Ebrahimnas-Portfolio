@@ -9,7 +9,7 @@ const userData = {
   projects: [
     {
       title: "NussyNas (E-commerce Web App)",
-      link: "https://nussynas.netlify.app/",
+      link: "https://nussynas.com/",
       imgUrl: "/NN.png",
     },
     {
@@ -37,8 +37,8 @@ const userData = {
       `I specialize in building dynamic and scalable web applications using React.js, Next.js, TypeScript, and JavaScript, with a focus on clean design, efficiency, and seamless user experiences. My architectural insights inform every step, from wireframing and planning to crafting user-centric solutions that merge innovative design with functional technology.`,
       `With hands-on experience in agile methodologies, code optimization, and effective collaboration across cross-functional teams, I’m skilled at rapidly learning new tools and solving complex technical challenges. My goal? To create software that integrates technology into the built environment, uniting diverse disciplines and enriching both digital and physical spaces. Whether it's through performance-driven front-end solutions or intuitive user interfaces, I’m here to make technology engaging, efficient, and designed for impact.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "Projexync",
+    currentProjectUrl: "https://projexync.com/",
   },
   experience: [
     {

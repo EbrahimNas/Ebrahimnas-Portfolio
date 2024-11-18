@@ -36,7 +36,7 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
-            href="https://nussynas.netlify.app/"
+            href="https://nussynas.com/"
             className="w-full block col-span-3 shadow-2xl"
             target="_blank" rel="noopener noreferrer"
           >

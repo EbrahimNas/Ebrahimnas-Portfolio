@@ -15,13 +15,14 @@ export default function AboutMe() {
             className="leading-loose text-2xl md:text-4xl font-semibold italic mx-4"
             style={{ lineHeight: "3rem" }}
           >
-            {userData.about.title}. {/*Currently working on{" "}*/}
-            {/*<a
-              className="bg-red-500 rounded-md px-2 py-1 text-white"
+            {userData.about.title}. Currently working on{" "}
+            <a
+              className="bg-blue-500 rounded-md px-2 py-1 text-white"
               href={userData.about.currentProjectUrl}
+                  target="_blank" rel="noopener noreferrer"
             >
-              {userData.about.currentProject} ✈️
-            </a>*/}
+              {userData.about.currentProject} 🏗️
+            </a>
           </p>
         </div>
       </div>
@@ -161,7 +162,7 @@ export default function AboutMe() {
               </p>
             ))}
 
-            <h1 className="bg-red-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
+            <h1 className="bg-blue-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
               Tech Stack
             </h1>
             <div className="flex flex-row flex-wrap mt-8">
