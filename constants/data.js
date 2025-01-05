@@ -42,9 +42,16 @@ const userData = {
   },
   experience: [
     {
+      title: "Frontend Engineer",
+      company: "Codecademy.",
+      year: "January '24 - Present",
+      companyLink: "",
+      desc: "Built and deployed several projects, including a fully functional e-commerce app with dynamic filtering, cart functionality, order management, user authentication, and real-time database integration using Firebase. Integrated Paystack's API for secure payments.",
+    },
+    {
       title: "Assistant Project Manager",
       company: "Tiege Consult.",
-      year: "Oct '22 - Present",
+      year: "Oct '22 - Nov '24",
       companyLink: "",
       desc: "Collaborated closely with front-end developers, contributing to the development of reusable components in React.",
     },
@@ -69,16 +76,9 @@ const userData = {
       companyLink: "",
       desc: "Prepared Architectural drawings and Visualisations using Computer Aided Design programs.",
     },
-    {
-      title: "Architectural Assistant, Intern",
-      company: "Aim Consultant.",
-      year: "May '17 - Oct '17",
-      companyLink: "",
-      desc: "Prepared Architectural drawings and Visualisations using Computer Aided Design programs.",
-    },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1BVzL-CQMQIZK4u6XmviOVhU55q3JJfPL/view?usp=sharing",
+    "https://drive.google.com/file/d/1vu9oAf-9wLa0SHvlYGAFjGf5W2gLkoOG/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/ebrahim_nas",
     twitter: "https://twitter.com/ebrahim_nass",
