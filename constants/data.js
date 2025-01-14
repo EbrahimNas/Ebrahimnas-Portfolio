@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "EbrahimNas",
   name: "Ibrahim Nasir",
   designation: "Software Developer",
-  avatarUrl: "/avatar1.png",
+  avatarUrl: "/avatar2.png",
   email: "ibrahimnas1@yahoo.com",
   phone: "+44 7466796634",
   address: "Birmingham, United Kingdom.",
