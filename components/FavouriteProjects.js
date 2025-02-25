@@ -46,7 +46,7 @@ export default function FavouriteProjects() {
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-pink-500 rounded-md px-2">
                 NussyNas (E-commerce Web App)
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
@@ -56,8 +56,29 @@ export default function FavouriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://jammmingforspotify.netlify.app/"
+            href="https://farmvesta.vercel.app/"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
+            target="_blank" rel="noopener noreferrer"
+          >
+            <div className="relative overflow-hidden shadow-2xl">
+              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+              <img
+                src="/FV.png"
+                alt="portfolio"
+                className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-[#83c746] rounded-md px-2">
+                FarmVesta
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                02
+              </h1>
+            </div>
+          </a>
+          {/* Single card */}
+          <a
+            href="https://jammmingforspotify.netlify.app/"
+            className="w-full block col-span-3  sm:col-span-1 shadow-2xl"
             target="_blank" rel="noopener noreferrer"
           >
             <div className="relative overflow-hidden">
@@ -67,35 +88,15 @@ export default function FavouriteProjects() {
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-orange-500 rounded-md px-2">
                 Jammming
-              </h1>
-              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
-                02
-              </h1>
-            </div>
-          </a>
-          {/* Single card */}
-          <a
-            href="https://number-guesser-game-enas.netlify.app"
-            className="w-full block col-span-3 sm:col-span-1  object-cover"
-            target="_blank" rel="noopener noreferrer"
-          >
-            <div className="relative overflow-hidden shadow-2xl">
-              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
-              <img
-                src="/nbg.png"
-                alt="portfolio"
-                className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
-              />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                Number Guesser-Game
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 03
               </h1>
             </div>
           </a>
+          
         </div>
       </div>
     </div>

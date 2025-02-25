@@ -13,6 +13,11 @@ const userData = {
       imgUrl: "/NN.png",
     },
     {
+      title: "FarmVesta",
+      link: "https://farmvesta.vercel.app/",
+      imgUrl: "/FV.png",
+    },
+    {
       title: "Jammming",
       link: "https://jammmingforspotify.netlify.app/",
       imgUrl: "/jsp.png",
@@ -37,12 +42,12 @@ const userData = {
       `I specialize in building dynamic and scalable web applications using React.js, Next.js, TypeScript, and JavaScript, with a focus on clean design, efficiency, and seamless user experiences. My architectural insights inform every step, from wireframing and planning to crafting user-centric solutions that merge innovative design with functional technology.`,
       `With hands-on experience in agile methodologies, code optimization, and effective collaboration across cross-functional teams, I’m skilled at rapidly learning new tools and solving complex technical challenges. My goal? To create software that integrates technology into the built environment, uniting diverse disciplines and enriching both digital and physical spaces. Whether it's through performance-driven front-end solutions or intuitive user interfaces, I’m here to make technology engaging, efficient, and designed for impact.`,
     ],
-    currentProject: "Projexync",
-    currentProjectUrl: "https://projexync.com/",
+    currentProject: "FarmVesta",
+    currentProjectUrl: "https://farmvesta.vercel.app/",
   },
   experience: [
     {
-      title: "Frontend Engineer",
+      title: "Fullstack Engineer",
       company: "Codecademy.",
       year: "January '24 - Present",
       companyLink: "",
@@ -78,7 +83,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1vu9oAf-9wLa0SHvlYGAFjGf5W2gLkoOG/view?usp=sharing",
+    "https://drive.google.com/file/d/1ysqwKlk9Yel12CI1TO6xuzY7fSLUK4iP/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/ebrahim_nas",
     twitter: "https://twitter.com/ebrahim_nass",
