@@ -52,7 +52,7 @@ const userData = {
       company: "Tiege Consult.",
       year: "Sep '22 - Present",
       companyLink: "",
-      desc: "At Tiege Consult, I lead infrastructure automation and cloud deployments using tools like AWS, Docker, Kubernetes, Terraform, and Jenkins. I work closely with engineering teams to streamline CI/CD pipelines, enforce security best practices, and implement GitOps workflows. My role also includes scripting, systems monitoring, and supporting production environments to ensure system reliability and performance.",
+      desc: "At Tiege Consult, I lead infrastructure automation and cloud deployments using tools like AWS, Docker, Kubernetes, Terraform, Andible and Jenkins. I work closely with engineering teams to streamline CI/CD pipelines, enforce security best practices, and implement GitOps workflows. My role also includes scripting, systems monitoring, and supporting production environments to ensure system reliability and performance.",
     },
     {
       title: "Fullstack Engineer",
@@ -77,7 +77,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1ysqwKlk9Yel12CI1TO6xuzY7fSLUK4iP/view?usp=sharing",
+    "https://drive.google.com/file/d/1lhkBUhs7tMWrzUeBKiflt4534o4orMmR/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/ebrahim_nas",
     twitter: "https://twitter.com/ebrahim_nass",
