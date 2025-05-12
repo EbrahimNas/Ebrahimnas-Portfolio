@@ -8,6 +8,11 @@ const userData = {
   address: "Birmingham, United Kingdom.",
   projects: [
     {
+      title: "Fezzant",
+      link: "https://fezzant.com/",
+      imgUrl: "/fz.png",
+    },
+    {
       title: "NussyNas (E-commerce Web App)",
       link: "https://nussynas.com/",
       imgUrl: "/NN.png",
